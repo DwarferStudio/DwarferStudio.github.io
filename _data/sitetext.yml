@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our site!
-    text: Dwarfer Studio
+    title: Welcome to Dwarfer Studio!
+    text: We create an action games that anyone can easily enjoy.
     button: Games
     buttonlink: "#portfolio"
 
